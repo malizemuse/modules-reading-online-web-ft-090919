@@ -3,7 +3,7 @@ require_relative './dance_module.rb'
 
 class Dancer
   
-  include Dancer
+  include Dance
   
   attr_accessor :name 
   
