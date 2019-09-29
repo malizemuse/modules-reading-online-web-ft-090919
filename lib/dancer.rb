@@ -1,6 +1,4 @@
-require_relative "../lib/dance_module.rb"
-
-def Dancer 
+class Dancer 
   
   include Dance 
   
