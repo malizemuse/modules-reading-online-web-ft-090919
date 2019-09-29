@@ -1,3 +1,6 @@
+
+require_relative "../lib/danc_moduler.rb"
+
 class Dancer 
   
   include Dance 
