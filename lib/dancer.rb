@@ -1,3 +1,5 @@
+require_relative "../lib/dancer.rb"
+
 def Dancer 
   
   include Dance 
