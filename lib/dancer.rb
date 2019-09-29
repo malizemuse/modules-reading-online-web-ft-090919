@@ -1,5 +1,5 @@
 
-require_relative "../lib/dance_modulr.rb"
+require_relative "../lib/dance_module.rb"
 
 class Dancer 
   
