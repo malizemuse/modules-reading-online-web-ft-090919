@@ -5,7 +5,7 @@ class Dancer
   attr_accessor :name 
   
   def initializze(name)
-    @name - name 
+    @name = name 
   end 
   
   
