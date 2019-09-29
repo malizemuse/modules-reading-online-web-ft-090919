@@ -1,6 +1,8 @@
 module MetaDancing 
   
-  
+  def metadata 
+    "Thi"
+  end 
   
   
   
