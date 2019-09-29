@@ -1,4 +1,4 @@
-require_relative "../lib/dancer.rb"
+require_relative "../lib/dance_module.rb"
 
 def Dancer 
   
