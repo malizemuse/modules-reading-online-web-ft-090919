@@ -1,5 +1,6 @@
 module FancyDance
   
+  # Instance methods. Includes.
   module InstanceMethods
  
     def twirl
@@ -18,7 +19,8 @@ module FancyDance
       "Thank you, thank you. It was a pleasure to dance for you all."
     end
   end
- 
+  
+  # Class methods. Extends.
   module ClassMethods
  
     def metadata
